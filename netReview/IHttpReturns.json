@@ -1,0 +1,13 @@
+{
+  "OkResult": "Represents an HTTP 200 (OK) response.",
+  "BadRequestResult": "Represents an HTTP 400 (Bad Request) response.",
+  "NotFoundResult": "Represents an HTTP 404 (Not Found) response.",
+  "RedirectResult": "Represents a redirection to another URL.",
+  "UnauthorizedResult": "Represents an HTTP 401 (Unauthorized) response.",
+  "ConflictResult": "Represents an HTTP 409 (Conflict) response.",
+  "StatusCodeResult": "Represents an HTTP response with a specific status code.",
+  "JsonResult": "Represents an HTTP response formatted as JSON.",
+  "ContentResult": "Represents an HTTP response with content.",
+  "CreatedAtRouteResult": "Represents an HTTP 201 (Created) response with a location header.",
+  "InternalServerErrorResult": "Represents an HTTP 500 (Internal Server Error) response."
+}
